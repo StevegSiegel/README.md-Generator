@@ -6,7 +6,7 @@
 We were tasked with creating a command line tool to help make creating README.md files easier. The tool is designed to take user inputs and apply them to the corrisponding sections of a readme file and create the file. The user will be prompted to provide a title of the project, a description of the project, any installation instructions, any usage instructions, choose a license for the project, provide instructions for how others can contribute, describe any tests and how to use them, and a section with contact information for any additional questions.
 
 ## Example
-![Demo](https://drive.google.com/file/d/1g3JtoSsRyO1pmNzJUFrVa3YN2uSgkC3z/view)
+![Demo](https://drive.google.com/file/d/1g3JtoSsRyO1pmNzJUFrVa3YN2uSgkC3z/view?usp=sharing)
 
 ## Table of contents
 - [Description](#description)
