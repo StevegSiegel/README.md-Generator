@@ -13,7 +13,7 @@ ${answers.description}.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributin](#contributing)
+- [Contribution](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -24,16 +24,17 @@ ${answers.install}.
 ${answers.usage}.
 
 ## License
-${answers.license}.
+${answers.license} [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
 ## Contributing
-${answers.contributing}
+${answers.contributing}.
 
 ## Tests
+${answers.test}.
 
 ## Questions
 [A link to my gitHub](https://github.com/${answers.gitHub})  
-Email: ${answers.email}`
+Email: ${answers.email}`;
 
 inquirer.prompt([{
             type: 'input',
